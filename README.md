@@ -14,8 +14,6 @@ The output `y` generates a **1-cycle pulse** when the last bit (`1`) of the sequ
 - Transitions handle overlaps (e.g., `1101101` still triggers detections).  
 - Output `y=1` only when full pattern `1101` is detected.  
 
-![State Diagram](https://github.com/user-attachments/assets/0ce83508-9a08-42a8-af7d-72b6f3b426d4)
-![Block Design](https://github.com/user-attachments/assets/b54f6003-c9cb-42f5-b0d0-f8b14e0d7450)
 
 ---
 
@@ -49,15 +47,6 @@ The testbench generates serial input streams on `din`.
 
 ---
 
-## GitHub Submission
-- **Repo URL**: *[(https://github.com/spandanb10745/CS322M-230102108)]*  
-- **Final Commit Hash**: *[replace with latest commit hash]*  
-
----
-
-## Author
-- Name: *SPANDAN BHARADWAJ*  
-- Course/Assignment: *CS_322_M*  
 
 
 
